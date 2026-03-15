@@ -54,7 +54,7 @@ The dashboard answers the following questions:
 
 ## Dashboard
 
-!![vridhi dashboard]()
+!![vridhi dashboard](https://github.com/kajalydv26/excel-sales-data-analysis/blob/main/Vridhi%20dashboard.png)
 
 ---
 
