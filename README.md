@@ -1,7 +1,7 @@
 # Vridhi Store Data Analysis (Interactive Excel Dashboard)
 
 ## Project Overview
-This project analyzes the 2022 sales data of Vrinda Store and presents insights through an interactive dashboard created using Microsoft Excel. The dashboard helps understand customer behavior, sales trends, and key business metrics to support better decision-making and improve sales in 2023 and 2024.
+This project analyzes the 2022 sales data of Vridhi Store and presents insights through an interactive dashboard created using Microsoft Excel. The dashboard helps understand customer behavior, sales trends, and key business metrics to support better decision-making and improve sales in 2023 and 2024.
 
 ---
 
